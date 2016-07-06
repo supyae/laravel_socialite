@@ -1,0 +1,10 @@
+{
+    "name": "root/blog",
+    "authors": [
+        {
+            "name": "supyae",
+            "email": "supyaeluna@gmail.com"
+        }
+    ],
+    "require": {}
+}

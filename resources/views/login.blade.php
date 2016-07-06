@@ -1,0 +1,1 @@
+<a href="{!!URL::to('github')!!}">Login with Github</a>
